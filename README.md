@@ -1,4 +1,4 @@
-# 🥖 Sistema de Padaria (Java)
+# 🥖 Sistema de Pagamento em notas (Java)
 
 ## 📌 Descrição
 Este é um programa simples em Java que simula o processo de pagamento em uma padaria. Ele permite:
